@@ -1,19 +1,2 @@
-{
-	"posts": [
-		{
-			"id": 1,
-			"title": "json-server",
-			"author": "typicode"
-		}
-	],
-	"comments": [
-		{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
-}
+
+{"createdAt":"2021-08-22T08:41:41.913Z","name":"Hope Williamson","avatar":"https://ru.files.fm/f/fhmgaakgc","id":1}
